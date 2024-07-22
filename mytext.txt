@@ -1,1 +1,12 @@
-Iam Nasreen Begum
+I added git commands
+GIT-
+git config --global user.name "name"
+git config --global user.email "mail"
+
+git clone "URL"
+cd file
+#changes
+git status
+git add --all
+git commit -m "message"
+git push
